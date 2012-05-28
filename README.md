@@ -1,0 +1,3 @@
+# Getting started w/ erlang
+
+Just a little checkout using [this](http://www.erlang.org/doc/getting_started) tutorial. Let's see...
